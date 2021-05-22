@@ -46,6 +46,6 @@ testem.log
 Thumbs.db
 
 # protect the environment variables
-**/src/environments/environment.prod.ts
+environment.prod.ts
 environment.ts
 .env
